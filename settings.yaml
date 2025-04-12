@@ -1,0 +1,23 @@
+# AI Interaction Settings
+threads: 5                     # Number of concurrent threads
+delay_between_interactions: 10 # Delay in seconds between interactions
+interactions_per_day: 20       # Number of interactions per wallet per 24 hours
+agent_id: "deployment_vxJKb0YqfT5VLWZU7okKWa8L"  # Agent ID for API requests
+
+# API Endpoints
+chat_endpoint: "https://deployment-qkjvbjou3czo2rpcalcqxkvm.stag-vxzy.zettablock.com/main"
+report_usage_endpoint: "https://quests-usage-dev.prod.zettablock.com/api/report_usage"
+inference_endpoint: "https://neo.prod.zettablock.com/v1/inference"
+stats_endpoint: "https://quests-usage-dev.prod.zettablock.com/api/user/{wallet_address}/stats"
+
+# Database Settings
+database_path: "kite_ai_interactions.db"
+
+# Files
+private_keys_file: "private_keys.txt"
+proxies_file: "proxies.txt"
+questions_file: "questions.txt"
+
+# Logging
+log_level: "INFO"
+log_file: "kite_ai_bot.log" 
