@@ -1,7 +1,7 @@
 # 🤖 KiteAI Interaction Bot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python 3.8+">
+  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python" alt="Python 3.11+">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
 </p>
 
@@ -237,7 +237,7 @@ Key points about interaction counting:
 
 If you see errors about invalid proxy format, make sure your proxies are specified in the correct format:
 ```
-host:port:username:password
+username:password@host:port
 ```
 
 ### Wallet Issues
