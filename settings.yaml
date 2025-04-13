@@ -3,6 +3,9 @@ threads: 5                     # Number of concurrent threads
 delay_between_interactions: 10 # Delay in seconds between interactions
 interactions_per_day: 20       # Number of interactions per wallet per 24 hours
 agent_id: "deployment_vxJKb0YqfT5VLWZU7okKWa8L"  # Agent ID for API requests
+# deployment_vxJKb0YqfT5VLWZU7okKWa8L - Professor
+# deployment_fseGykIvCLs3m9Nrpe9Zguy9 - Crypto Buddy
+# deployment_vZbfWRdDjtHXis3sFPLNHx6K - Sherlock
 
 # API Endpoints
 chat_endpoint: "https://deployment-qkjvbjou3czo2rpcalcqxkvm.stag-vxzy.zettablock.com/main"
