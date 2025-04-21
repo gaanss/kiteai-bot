@@ -1,11 +1,13 @@
 # 🤖 KiteAI Interaction Bot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python" alt="Python 3.11+">
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT">
+  <a href="https://t.me/gans_software">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+  <a href="https://t.me/ganssoftwarechat">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram" alt="Telegram Chat">
+  </a>
 </p>
-
-> 🚀 Automate KiteAI interactions across multiple wallets
 
 This Python application automates interactions with the KiteAI chat platform. It allows you to send questions to the AI agent, receive responses, report usage, and collect statistics across multiple wallets.
 
