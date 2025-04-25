@@ -47,7 +47,7 @@ The bot features a simple console interface for easy interaction:
 
 ## 📦 Requirements
 
-- Python 3.8+
+- Python 3.11
 - Dependencies listed in `requirements.txt`
 
 ## 🔧 Installation
