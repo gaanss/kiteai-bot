@@ -8,7 +8,7 @@ agent_id: "deployment_vxJKb0YqfT5VLWZU7okKWa8L"  # Agent ID for API requests
 # deployment_vZbfWRdDjtHXis3sFPLNHx6K - Sherlock
 
 # API Endpoints
-chat_endpoint: "https://deployment-qkjvbjou3czo2rpcalcqxkvm.stag-vxzy.zettablock.com/main"
+chat_endpoint: "https://deployment-kazqlqgrjw8hbr8blptnpmtj.staging.gokite.ai/main"
 report_usage_endpoint: "https://quests-usage-dev.prod.zettablock.com/api/report_usage"
 inference_endpoint: "https://neo.prod.zettablock.com/v1/inference"
 stats_endpoint: "https://quests-usage-dev.prod.zettablock.com/api/user/{wallet_address}/stats"
