@@ -121,11 +121,11 @@ Create a `private_keys.txt` file and add private keys (one per line):
 
 ### 2. `proxies.txt` - Proxy Server Settings
 
-Create a `proxies.txt` file and add proxies (one per line in `username:password@ip:port` format):
+Create a `proxies.txt` file and add proxies (one per line in `ip:port:username:password` format):
 
 ```
-gans:12345@1.1.1.1:3000
-gans:12345@1.1.1.1:3001
+1.1.1.1:3000:gans:12345
+1.1.1.1:3000:gans:12345
 # ... add more proxies as needed
 ```
 
